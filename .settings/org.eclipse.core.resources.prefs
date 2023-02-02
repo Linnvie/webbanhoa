@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ptit/controller/CartController.java=UTF-8
+encoding//src/main/java/com/ptit/controller/KhachController.java=UTF-8
+encoding//src/main/java/com/ptit/controller/QuanLiController.java=UTF-8
+encoding//src/main/java/com/ptit/controller/TaiKhoanController.java=UTF-8
+encoding//src/main/java/com/ptit/interceptor/KhachInterceptor.java=UTF-8
+encoding//src/main/java/com/ptit/interceptor/QuanLiInterceptor.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/DonHang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/KhachHang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/NhaCungCap.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/ThongKe.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/admin/include/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/chitiet.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/flowers.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/giohang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/taikhoan.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/thanhtoan.jsp=UTF-8
